@@ -9,9 +9,10 @@ First, download the ImageJ software, available at: [https://imagej.nih.gov/ij/do
 
 Next, download the file matrix_quantifier-0.0.1.jar and place it in the plugins folder within the ImageJ installation directory.
 
-Run ImageJ and navigate to the menu Plugin/Histology/Threshold, as shown in the image below:
+Run ImageJ and navigate to the menu Plugin/Matriz/Matrizplugin, as shown in the image below:
 
-<img width="615" height="512" alt="image" src="https://github.com/user-attachments/assets/dcec3942-da05-41c0-9d58-bf17393ef6d6" />
+<img width="619" height="514" alt="imagejimage" src="https://github.com/user-attachments/assets/7d5834de-90e1-4695-9f81-2c670e298c5c" />
+
 
 A window will appear; select the folder containing the images to be processed and click OK.
 
@@ -33,9 +34,10 @@ Inicialmente, faça o download do software ImageJ, disponível em [https://image
 Em seguida
 Faça o download do arquivo matrix_quantifier-0.0.1.jar, e cole-o na pasta plugins do diretório onde foi feita a instalação do ImageJ.
 
-Execute o ImageJ e procure pelo menu Plugin/Histology/Threshold, conforme a imagem abaixo:
+Execute o ImageJ e procure pelo menu Plugin/Matriz/Matrizplugin, conforme a imagem abaixo:
 
-<img width="615" height="512" alt="image" src="https://github.com/user-attachments/assets/317c6fd2-a10e-44b9-ac1a-526dca929038" />
+<img width="619" height="514" alt="imagejimage" src="https://github.com/user-attachments/assets/09095954-93f0-4769-a769-d2adc9792b06" />
+
 
 Uma janela irá aparecer, selecione a pasta onde estão contidas as imagens a serem processadas e clique em OK.
 
