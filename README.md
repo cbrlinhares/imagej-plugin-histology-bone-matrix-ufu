@@ -1,10 +1,34 @@
 # imagej-plugin-histology-bone-matrix-ufu
 
+ImageJ plugin for automating the processing of histological images for bone matrix quantification.
+
+How to use
+
+First, download the ImageJ software, available at: [https://imagej.nih.gov/ij/download.html](https://imagej.net/ij/download.html)
+.
+
+Next, download the file matrix_quantifier-0.0.1.jar and place it in the plugins folder within the ImageJ installation directory.
+
+Run ImageJ and navigate to the menu Plugin/Histology/Threshold, as shown in the image below:
+
+<img width="615" height="512" alt="image" src="https://github.com/user-attachments/assets/dcec3942-da05-41c0-9d58-bf17393ef6d6" />
+
+A window will appear; select the folder containing the images to be processed and click OK.
+
+When the process is finished, a new folder named matriz_plugin will be generated with the processed images, in which the bone matrix is highlighted in red. Additionally, a results window will be displayed, providing individual measurements for each image, such as perimeter, area, and other bone matrix parameters.
+
+An example of the final output is shown below:
+
+<img width="1436" height="522" alt="image" src="https://github.com/user-attachments/assets/9bb38247-ce96-468c-b359-81e897ee33a3" />
+
+In the Results window, it is possible to export the output data as a .csv file.
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Plugin ImageJ para automatização do processamento de imagens histológicas a fim de quantificação dá matriz óssea.
 
 Como usar
 
-Inicialmente, faça o download do software ImageJ, disponível em https://imagej.nih.gov/ij/download.html.
+Inicialmente, faça o download do software ImageJ, disponível em [https://imagej.nih.gov/ij/download.html.](https://imagej.net/ij/download.html)
 
 Em seguida
 Faça o download do arquivo matrix_quantifier-0.0.1.jar, e cole-o na pasta plugins do diretório onde foi feita a instalação do ImageJ.
